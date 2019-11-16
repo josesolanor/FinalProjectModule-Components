@@ -1,15 +1,10 @@
-# Proyecto Final Modulo 3 – Prueba de software – QTesting
-
-_Autor: Jose G Solano Romero_
-
-_Proyecto final para el modulo 3 Prueba de software Qtesting_
-
-_La implementación de todos los niveles de pruebas en el diagrama piramidal, es decir Pruebas Unitarias, Pruebas de Integración y Prueba de UI automatizadas._
+# Proyecto Final Modulo 5 – Sistema de Billetera Virtual
 
 La implementacion del proyecto y sus pruebas se desarrollaron bajo tecnologia Microsoft de la siguiente manera:
 
 * Aplicacion API - Asp.net API Core 2.2
 * Aplicacion Cliente - Asp.net MVC Core 2.2 
+* Biblioteca de Clases - Core 2.2
 * Cliente Tester API - MSTest
 * Cliente Teste Cliente - NUnit, Specflow
 
